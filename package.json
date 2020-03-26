@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/narenaryan/node-jwt-integ.git"
+    "url": "git+https://github.com/gustavodalves/Login.git"
   },
   "keywords": [
     "node",
